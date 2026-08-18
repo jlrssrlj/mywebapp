@@ -95,3 +95,4 @@
 /home/jorge-ramos/Escritorio/mywebApp/obj/Debug/net10.0/mywebApp.pdb
 /home/jorge-ramos/Escritorio/mywebApp/obj/Debug/net10.0/mywebApp.genruntimeconfig.cache
 /home/jorge-ramos/Escritorio/mywebApp/obj/Debug/net10.0/ref/mywebApp.dll
+/home/jorge-ramos/Escritorio/mywebApp/obj/Debug/net10.0/mywebApp.sourcelink.json
